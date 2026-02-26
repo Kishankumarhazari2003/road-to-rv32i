@@ -32,4 +32,4 @@ In the future, I plan to take this project to Level 2, where I will integrate th
 
 For any questions or help regarding this project, feel free to reach out to me. 
 
-Kishan Jazari – Electronics & Communication Engineering student focused on FPGA and Verilog design.
+Kishan kumar hazari – Electronics & Communication Engineering student focused on FPGA and Verilog design.
